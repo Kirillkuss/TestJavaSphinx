@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69e7e1d-f6f5-4a34-ad2e-94f2dd661939" name="Changes" comment="Add ru AM/D/LM in project">
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/feat.params" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/feature_transform" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/mdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/means" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/mixture_weights" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/noisedict" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/transition_matrices" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_cont_4000/variances" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/feat.params" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/mdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/means" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/mixture_weights" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/noisedict" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/sendump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/transition_matrices" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_ptm_4000/variances" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/feat.params" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/mdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/means" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/mixture_weights" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/noisedict" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/sendump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/transition_matrices" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/zero_ru.cd_semi_4000/variances" beforeDir="false" />
+    <list default="true" id="e69e7e1d-f6f5-4a34-ad2e-94f2dd661939" name="Changes" comment="Add lm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TranscriberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TranscriberDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TranscriberDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TranscriberDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +24,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="barysevich_k &lt;borisevich711@gmail.com&gt;" />
         <option value="Kirill &lt;99822514+kirillkuss@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -131,7 +111,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669369994861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ru AM/D/LM in project">
+      <created>1669370442156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669370442156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ru AM/D/LM in project">
+      <created>1669370519875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669370519875</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add shinks">
+      <created>1669370593374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669370593374</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add lm">
+      <created>1669370680642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669370680642</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add lm">
+      <created>1669370890851</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669370890851</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +166,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ru AcousticModel/Dictionary/LanguageModel" />
     <MESSAGE value="Add ru AM/D/LM in project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ru AM/D/LM in project" />
+    <MESSAGE value="Add shinks" />
+    <MESSAGE value="Add lm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add lm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
